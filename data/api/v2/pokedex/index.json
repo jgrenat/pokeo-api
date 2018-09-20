@@ -1,0 +1,63 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "national",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/1/"
+        },
+        {
+            "name": "kanto",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/2/"
+        },
+        {
+            "name": "original-johto",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/3/"
+        },
+        {
+            "name": "hoenn",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/4/"
+        },
+        {
+            "name": "original-sinnoh",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/5/"
+        },
+        {
+            "name": "extended-sinnoh",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/6/"
+        },
+        {
+            "name": "updated-johto",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/7/"
+        },
+        {
+            "name": "original-unova",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/8/"
+        },
+        {
+            "name": "updated-unova",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/9/"
+        },
+        {
+            "name": "conquest-gallery",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/11/"
+        },
+        {
+            "name": "kalos-central",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/12/"
+        },
+        {
+            "name": "kalos-coastal",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/13/"
+        },
+        {
+            "name": "kalos-mountain",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/14/"
+        },
+        {
+            "name": "updated-hoenn",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/15/"
+        }
+    ]
+}

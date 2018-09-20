@@ -1,0 +1,31 @@
+{
+    "areas": [
+        {
+            "name": "mossdeep-city-area",
+            "url": "https://pokeo.surge.sh/api/v2/location-area/353/"
+        }
+    ],
+    "game_indices": [],
+    "id": 432,
+    "name": "mossdeep-city",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokeo.surge.sh/api/v2/language/9/"
+            },
+            "name": "Mossdeep City"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokeo.surge.sh/api/v2/language/5/"
+            },
+            "name": "Algatia"
+        }
+    ],
+    "region": {
+        "name": "hoenn",
+        "url": "https://pokeo.surge.sh/api/v2/region/3/"
+    }
+}

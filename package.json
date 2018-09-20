@@ -1,0 +1,23 @@
+{
+  "name": "pokeo-api",
+  "version": "1.0.0",
+  "description": "Self-hosted API on surge based ok the pokeapi data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "surge --domain=https://pokeo.surge.sh ./data "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgrenat/pokeo-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgrenat/pokeo-api/issues"
+  },
+  "homepage": "https://github.com/jgrenat/pokeo-api#readme",
+  "devDependencies": {
+    "surge": "^0.20.1"
+  }
+}

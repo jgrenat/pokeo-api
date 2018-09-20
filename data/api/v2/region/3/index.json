@@ -1,0 +1,399 @@
+{
+    "id": 3,
+    "locations": [
+        {
+            "name": "petalburg-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/429/"
+        },
+        {
+            "name": "slateport-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/430/"
+        },
+        {
+            "name": "lilycove-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/431/"
+        },
+        {
+            "name": "mossdeep-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/432/"
+        },
+        {
+            "name": "sootopolis-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/433/"
+        },
+        {
+            "name": "ever-grande-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/434/"
+        },
+        {
+            "name": "meteor-falls",
+            "url": "https://pokeo.surge.sh/api/v2/location/435/"
+        },
+        {
+            "name": "rusturf-tunnel",
+            "url": "https://pokeo.surge.sh/api/v2/location/436/"
+        },
+        {
+            "name": "granite-cave",
+            "url": "https://pokeo.surge.sh/api/v2/location/437/"
+        },
+        {
+            "name": "petalburg-woods",
+            "url": "https://pokeo.surge.sh/api/v2/location/438/"
+        },
+        {
+            "name": "jagged-pass",
+            "url": "https://pokeo.surge.sh/api/v2/location/439/"
+        },
+        {
+            "name": "fiery-path",
+            "url": "https://pokeo.surge.sh/api/v2/location/440/"
+        },
+        {
+            "name": "mt-pyre",
+            "url": "https://pokeo.surge.sh/api/v2/location/441/"
+        },
+        {
+            "name": "seafloor-cavern",
+            "url": "https://pokeo.surge.sh/api/v2/location/442/"
+        },
+        {
+            "name": "cave-of-origin",
+            "url": "https://pokeo.surge.sh/api/v2/location/443/"
+        },
+        {
+            "name": "hoenn-victory-road",
+            "url": "https://pokeo.surge.sh/api/v2/location/444/"
+        },
+        {
+            "name": "shoal-cave",
+            "url": "https://pokeo.surge.sh/api/v2/location/445/"
+        },
+        {
+            "name": "new-mauville",
+            "url": "https://pokeo.surge.sh/api/v2/location/446/"
+        },
+        {
+            "name": "abandoned-ship",
+            "url": "https://pokeo.surge.sh/api/v2/location/447/"
+        },
+        {
+            "name": "sky-pillar",
+            "url": "https://pokeo.surge.sh/api/v2/location/448/"
+        },
+        {
+            "name": "hoenn-route-101",
+            "url": "https://pokeo.surge.sh/api/v2/location/449/"
+        },
+        {
+            "name": "hoenn-route-102",
+            "url": "https://pokeo.surge.sh/api/v2/location/450/"
+        },
+        {
+            "name": "hoenn-route-103",
+            "url": "https://pokeo.surge.sh/api/v2/location/451/"
+        },
+        {
+            "name": "hoenn-route-104",
+            "url": "https://pokeo.surge.sh/api/v2/location/452/"
+        },
+        {
+            "name": "hoenn-route-105",
+            "url": "https://pokeo.surge.sh/api/v2/location/453/"
+        },
+        {
+            "name": "hoenn-route-106",
+            "url": "https://pokeo.surge.sh/api/v2/location/454/"
+        },
+        {
+            "name": "hoenn-route-107",
+            "url": "https://pokeo.surge.sh/api/v2/location/455/"
+        },
+        {
+            "name": "hoenn-route-108",
+            "url": "https://pokeo.surge.sh/api/v2/location/456/"
+        },
+        {
+            "name": "hoenn-route-109",
+            "url": "https://pokeo.surge.sh/api/v2/location/457/"
+        },
+        {
+            "name": "hoenn-route-110",
+            "url": "https://pokeo.surge.sh/api/v2/location/458/"
+        },
+        {
+            "name": "hoenn-route-111",
+            "url": "https://pokeo.surge.sh/api/v2/location/459/"
+        },
+        {
+            "name": "hoenn-route-112",
+            "url": "https://pokeo.surge.sh/api/v2/location/460/"
+        },
+        {
+            "name": "hoenn-route-113",
+            "url": "https://pokeo.surge.sh/api/v2/location/461/"
+        },
+        {
+            "name": "hoenn-route-114",
+            "url": "https://pokeo.surge.sh/api/v2/location/462/"
+        },
+        {
+            "name": "hoenn-route-115",
+            "url": "https://pokeo.surge.sh/api/v2/location/463/"
+        },
+        {
+            "name": "hoenn-route-116",
+            "url": "https://pokeo.surge.sh/api/v2/location/464/"
+        },
+        {
+            "name": "hoenn-route-117",
+            "url": "https://pokeo.surge.sh/api/v2/location/465/"
+        },
+        {
+            "name": "hoenn-route-118",
+            "url": "https://pokeo.surge.sh/api/v2/location/466/"
+        },
+        {
+            "name": "hoenn-route-119",
+            "url": "https://pokeo.surge.sh/api/v2/location/467/"
+        },
+        {
+            "name": "hoenn-route-120",
+            "url": "https://pokeo.surge.sh/api/v2/location/468/"
+        },
+        {
+            "name": "hoenn-route-121",
+            "url": "https://pokeo.surge.sh/api/v2/location/469/"
+        },
+        {
+            "name": "hoenn-route-122",
+            "url": "https://pokeo.surge.sh/api/v2/location/470/"
+        },
+        {
+            "name": "hoenn-route-123",
+            "url": "https://pokeo.surge.sh/api/v2/location/471/"
+        },
+        {
+            "name": "hoenn-route-124",
+            "url": "https://pokeo.surge.sh/api/v2/location/472/"
+        },
+        {
+            "name": "hoenn-route-125",
+            "url": "https://pokeo.surge.sh/api/v2/location/473/"
+        },
+        {
+            "name": "hoenn-route-126",
+            "url": "https://pokeo.surge.sh/api/v2/location/474/"
+        },
+        {
+            "name": "hoenn-route-127",
+            "url": "https://pokeo.surge.sh/api/v2/location/475/"
+        },
+        {
+            "name": "hoenn-route-128",
+            "url": "https://pokeo.surge.sh/api/v2/location/476/"
+        },
+        {
+            "name": "hoenn-route-129",
+            "url": "https://pokeo.surge.sh/api/v2/location/477/"
+        },
+        {
+            "name": "hoenn-route-130",
+            "url": "https://pokeo.surge.sh/api/v2/location/478/"
+        },
+        {
+            "name": "hoenn-route-131",
+            "url": "https://pokeo.surge.sh/api/v2/location/479/"
+        },
+        {
+            "name": "hoenn-route-132",
+            "url": "https://pokeo.surge.sh/api/v2/location/480/"
+        },
+        {
+            "name": "hoenn-route-133",
+            "url": "https://pokeo.surge.sh/api/v2/location/481/"
+        },
+        {
+            "name": "hoenn-route-134",
+            "url": "https://pokeo.surge.sh/api/v2/location/482/"
+        },
+        {
+            "name": "hoenn-safari-zone",
+            "url": "https://pokeo.surge.sh/api/v2/location/483/"
+        },
+        {
+            "name": "dewford-town",
+            "url": "https://pokeo.surge.sh/api/v2/location/484/"
+        },
+        {
+            "name": "pacifidlog-town",
+            "url": "https://pokeo.surge.sh/api/v2/location/485/"
+        },
+        {
+            "name": "magma-hideout",
+            "url": "https://pokeo.surge.sh/api/v2/location/486/"
+        },
+        {
+            "name": "mirage-tower",
+            "url": "https://pokeo.surge.sh/api/v2/location/487/"
+        },
+        {
+            "name": "desert-underpass",
+            "url": "https://pokeo.surge.sh/api/v2/location/488/"
+        },
+        {
+            "name": "artisan-cave",
+            "url": "https://pokeo.surge.sh/api/v2/location/489/"
+        },
+        {
+            "name": "hoenn-altering-cave",
+            "url": "https://pokeo.surge.sh/api/v2/location/490/"
+        },
+        {
+            "name": "littleroot-town",
+            "url": "https://pokeo.surge.sh/api/v2/location/567/"
+        },
+        {
+            "name": "oldale-town",
+            "url": "https://pokeo.surge.sh/api/v2/location/568/"
+        },
+        {
+            "name": "lavaridge-town",
+            "url": "https://pokeo.surge.sh/api/v2/location/569/"
+        },
+        {
+            "name": "fallarbor-town",
+            "url": "https://pokeo.surge.sh/api/v2/location/570/"
+        },
+        {
+            "name": "verdanturf-town",
+            "url": "https://pokeo.surge.sh/api/v2/location/571/"
+        },
+        {
+            "name": "mauville-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/572/"
+        },
+        {
+            "name": "rustboro-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/573/"
+        },
+        {
+            "name": "fortree-city",
+            "url": "https://pokeo.surge.sh/api/v2/location/574/"
+        },
+        {
+            "name": "underwater",
+            "url": "https://pokeo.surge.sh/api/v2/location/575/"
+        },
+        {
+            "name": "mt-chimney",
+            "url": "https://pokeo.surge.sh/api/v2/location/576/"
+        },
+        {
+            "name": "mirage-island",
+            "url": "https://pokeo.surge.sh/api/v2/location/577/"
+        },
+        {
+            "name": "southern-island",
+            "url": "https://pokeo.surge.sh/api/v2/location/578/"
+        },
+        {
+            "name": "sealed-chamber",
+            "url": "https://pokeo.surge.sh/api/v2/location/579/"
+        },
+        {
+            "name": "scorched-slab",
+            "url": "https://pokeo.surge.sh/api/v2/location/580/"
+        },
+        {
+            "name": "island-cave",
+            "url": "https://pokeo.surge.sh/api/v2/location/581/"
+        },
+        {
+            "name": "desert-ruins",
+            "url": "https://pokeo.surge.sh/api/v2/location/582/"
+        },
+        {
+            "name": "ancient-tomb",
+            "url": "https://pokeo.surge.sh/api/v2/location/583/"
+        },
+        {
+            "name": "inside-of-truck",
+            "url": "https://pokeo.surge.sh/api/v2/location/584/"
+        },
+        {
+            "name": "secret-base",
+            "url": "https://pokeo.surge.sh/api/v2/location/585/"
+        },
+        {
+            "name": "hoenn-battle-tower",
+            "url": "https://pokeo.surge.sh/api/v2/location/586/"
+        }
+    ],
+    "main_generation": {
+        "name": "generation-iii",
+        "url": "https://pokeo.surge.sh/api/v2/generation/3/"
+    },
+    "name": "hoenn",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokeo.surge.sh/api/v2/language/1/"
+            },
+            "name": "\u30db\u30a6\u30a8\u30f3\u5730\u65b9"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokeo.surge.sh/api/v2/language/5/"
+            },
+            "name": "Hoenn"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokeo.surge.sh/api/v2/language/6/"
+            },
+            "name": "Hoenn"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "https://pokeo.surge.sh/api/v2/language/8/"
+            },
+            "name": "Hoenn"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokeo.surge.sh/api/v2/language/9/"
+            },
+            "name": "Hoenn"
+        }
+    ],
+    "pokedexes": [
+        {
+            "name": "hoenn",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/4/"
+        },
+        {
+            "name": "updated-hoenn",
+            "url": "https://pokeo.surge.sh/api/v2/pokedex/15/"
+        }
+    ],
+    "version_groups": [
+        {
+            "name": "ruby-sapphire",
+            "url": "https://pokeo.surge.sh/api/v2/version-group/5/"
+        },
+        {
+            "name": "emerald",
+            "url": "https://pokeo.surge.sh/api/v2/version-group/6/"
+        },
+        {
+            "name": "omega-ruby-alpha-sapphire",
+            "url": "https://pokeo.surge.sh/api/v2/version-group/16/"
+        }
+    ]
+}

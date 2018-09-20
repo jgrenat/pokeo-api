@@ -1,0 +1,697 @@
+{
+    "abilities": [
+        {
+            "name": "aroma-veil",
+            "url": "https://pokeo.surge.sh/api/v2/ability/165/"
+        },
+        {
+            "name": "flower-veil",
+            "url": "https://pokeo.surge.sh/api/v2/ability/166/"
+        },
+        {
+            "name": "cheek-pouch",
+            "url": "https://pokeo.surge.sh/api/v2/ability/167/"
+        },
+        {
+            "name": "protean",
+            "url": "https://pokeo.surge.sh/api/v2/ability/168/"
+        },
+        {
+            "name": "fur-coat",
+            "url": "https://pokeo.surge.sh/api/v2/ability/169/"
+        },
+        {
+            "name": "magician",
+            "url": "https://pokeo.surge.sh/api/v2/ability/170/"
+        },
+        {
+            "name": "bulletproof",
+            "url": "https://pokeo.surge.sh/api/v2/ability/171/"
+        },
+        {
+            "name": "competitive",
+            "url": "https://pokeo.surge.sh/api/v2/ability/172/"
+        },
+        {
+            "name": "strong-jaw",
+            "url": "https://pokeo.surge.sh/api/v2/ability/173/"
+        },
+        {
+            "name": "refrigerate",
+            "url": "https://pokeo.surge.sh/api/v2/ability/174/"
+        },
+        {
+            "name": "sweet-veil",
+            "url": "https://pokeo.surge.sh/api/v2/ability/175/"
+        },
+        {
+            "name": "stance-change",
+            "url": "https://pokeo.surge.sh/api/v2/ability/176/"
+        },
+        {
+            "name": "gale-wings",
+            "url": "https://pokeo.surge.sh/api/v2/ability/177/"
+        },
+        {
+            "name": "mega-launcher",
+            "url": "https://pokeo.surge.sh/api/v2/ability/178/"
+        },
+        {
+            "name": "grass-pelt",
+            "url": "https://pokeo.surge.sh/api/v2/ability/179/"
+        },
+        {
+            "name": "symbiosis",
+            "url": "https://pokeo.surge.sh/api/v2/ability/180/"
+        },
+        {
+            "name": "tough-claws",
+            "url": "https://pokeo.surge.sh/api/v2/ability/181/"
+        },
+        {
+            "name": "pixilate",
+            "url": "https://pokeo.surge.sh/api/v2/ability/182/"
+        },
+        {
+            "name": "gooey",
+            "url": "https://pokeo.surge.sh/api/v2/ability/183/"
+        },
+        {
+            "name": "aerilate",
+            "url": "https://pokeo.surge.sh/api/v2/ability/184/"
+        },
+        {
+            "name": "parental-bond",
+            "url": "https://pokeo.surge.sh/api/v2/ability/185/"
+        },
+        {
+            "name": "dark-aura",
+            "url": "https://pokeo.surge.sh/api/v2/ability/186/"
+        },
+        {
+            "name": "fairy-aura",
+            "url": "https://pokeo.surge.sh/api/v2/ability/187/"
+        },
+        {
+            "name": "aura-break",
+            "url": "https://pokeo.surge.sh/api/v2/ability/188/"
+        },
+        {
+            "name": "primordial-sea",
+            "url": "https://pokeo.surge.sh/api/v2/ability/189/"
+        },
+        {
+            "name": "desolate-land",
+            "url": "https://pokeo.surge.sh/api/v2/ability/190/"
+        },
+        {
+            "name": "delta-stream",
+            "url": "https://pokeo.surge.sh/api/v2/ability/191/"
+        }
+    ],
+    "id": 6,
+    "main_region": {
+        "name": "kalos",
+        "url": "https://pokeo.surge.sh/api/v2/region/6/"
+    },
+    "moves": [
+        {
+            "name": "hyperspace-fury",
+            "url": "https://pokeo.surge.sh/api/v2/move/621/"
+        },
+        {
+            "name": "dragon-ascent",
+            "url": "https://pokeo.surge.sh/api/v2/move/620/"
+        },
+        {
+            "name": "precipice-blades",
+            "url": "https://pokeo.surge.sh/api/v2/move/619/"
+        },
+        {
+            "name": "origin-pulse",
+            "url": "https://pokeo.surge.sh/api/v2/move/618/"
+        },
+        {
+            "name": "light-of-ruin",
+            "url": "https://pokeo.surge.sh/api/v2/move/617/"
+        },
+        {
+            "name": "lands-wrath",
+            "url": "https://pokeo.surge.sh/api/v2/move/616/"
+        },
+        {
+            "name": "thousand-waves",
+            "url": "https://pokeo.surge.sh/api/v2/move/615/"
+        },
+        {
+            "name": "thousand-arrows",
+            "url": "https://pokeo.surge.sh/api/v2/move/614/"
+        },
+        {
+            "name": "oblivion-wing",
+            "url": "https://pokeo.surge.sh/api/v2/move/613/"
+        },
+        {
+            "name": "power-up-punch",
+            "url": "https://pokeo.surge.sh/api/v2/move/612/"
+        },
+        {
+            "name": "infestation",
+            "url": "https://pokeo.surge.sh/api/v2/move/611/"
+        },
+        {
+            "name": "hold-back",
+            "url": "https://pokeo.surge.sh/api/v2/move/610/"
+        },
+        {
+            "name": "nuzzle",
+            "url": "https://pokeo.surge.sh/api/v2/move/609/"
+        },
+        {
+            "name": "baby-doll-eyes",
+            "url": "https://pokeo.surge.sh/api/v2/move/608/"
+        },
+        {
+            "name": "hold-hands",
+            "url": "https://pokeo.surge.sh/api/v2/move/607/"
+        },
+        {
+            "name": "celebrate",
+            "url": "https://pokeo.surge.sh/api/v2/move/606/"
+        },
+        {
+            "name": "dazzling-gleam",
+            "url": "https://pokeo.surge.sh/api/v2/move/605/"
+        },
+        {
+            "name": "electric-terrain",
+            "url": "https://pokeo.surge.sh/api/v2/move/604/"
+        },
+        {
+            "name": "happy-hour",
+            "url": "https://pokeo.surge.sh/api/v2/move/603/"
+        },
+        {
+            "name": "magnetic-flux",
+            "url": "https://pokeo.surge.sh/api/v2/move/602/"
+        },
+        {
+            "name": "geomancy",
+            "url": "https://pokeo.surge.sh/api/v2/move/601/"
+        },
+        {
+            "name": "powder",
+            "url": "https://pokeo.surge.sh/api/v2/move/600/"
+        },
+        {
+            "name": "venom-drench",
+            "url": "https://pokeo.surge.sh/api/v2/move/599/"
+        },
+        {
+            "name": "eerie-impulse",
+            "url": "https://pokeo.surge.sh/api/v2/move/598/"
+        },
+        {
+            "name": "aromatic-mist",
+            "url": "https://pokeo.surge.sh/api/v2/move/597/"
+        },
+        {
+            "name": "spiky-shield",
+            "url": "https://pokeo.surge.sh/api/v2/move/596/"
+        },
+        {
+            "name": "mystical-fire",
+            "url": "https://pokeo.surge.sh/api/v2/move/595/"
+        },
+        {
+            "name": "water-shuriken",
+            "url": "https://pokeo.surge.sh/api/v2/move/594/"
+        },
+        {
+            "name": "hyperspace-hole",
+            "url": "https://pokeo.surge.sh/api/v2/move/593/"
+        },
+        {
+            "name": "steam-eruption",
+            "url": "https://pokeo.surge.sh/api/v2/move/592/"
+        },
+        {
+            "name": "diamond-storm",
+            "url": "https://pokeo.surge.sh/api/v2/move/591/"
+        },
+        {
+            "name": "confide",
+            "url": "https://pokeo.surge.sh/api/v2/move/590/"
+        },
+        {
+            "name": "play-nice",
+            "url": "https://pokeo.surge.sh/api/v2/move/589/"
+        },
+        {
+            "name": "kings-shield",
+            "url": "https://pokeo.surge.sh/api/v2/move/588/"
+        },
+        {
+            "name": "fairy-lock",
+            "url": "https://pokeo.surge.sh/api/v2/move/587/"
+        },
+        {
+            "name": "boomburst",
+            "url": "https://pokeo.surge.sh/api/v2/move/586/"
+        },
+        {
+            "name": "moonblast",
+            "url": "https://pokeo.surge.sh/api/v2/move/585/"
+        },
+        {
+            "name": "fairy-wind",
+            "url": "https://pokeo.surge.sh/api/v2/move/584/"
+        },
+        {
+            "name": "play-rough",
+            "url": "https://pokeo.surge.sh/api/v2/move/583/"
+        },
+        {
+            "name": "electrify",
+            "url": "https://pokeo.surge.sh/api/v2/move/582/"
+        },
+        {
+            "name": "misty-terrain",
+            "url": "https://pokeo.surge.sh/api/v2/move/581/"
+        },
+        {
+            "name": "grassy-terrain",
+            "url": "https://pokeo.surge.sh/api/v2/move/580/"
+        },
+        {
+            "name": "flower-shield",
+            "url": "https://pokeo.surge.sh/api/v2/move/579/"
+        },
+        {
+            "name": "crafty-shield",
+            "url": "https://pokeo.surge.sh/api/v2/move/578/"
+        },
+        {
+            "name": "draining-kiss",
+            "url": "https://pokeo.surge.sh/api/v2/move/577/"
+        },
+        {
+            "name": "topsy-turvy",
+            "url": "https://pokeo.surge.sh/api/v2/move/576/"
+        },
+        {
+            "name": "parting-shot",
+            "url": "https://pokeo.surge.sh/api/v2/move/575/"
+        },
+        {
+            "name": "disarming-voice",
+            "url": "https://pokeo.surge.sh/api/v2/move/574/"
+        },
+        {
+            "name": "freeze-dry",
+            "url": "https://pokeo.surge.sh/api/v2/move/573/"
+        },
+        {
+            "name": "petal-blizzard",
+            "url": "https://pokeo.surge.sh/api/v2/move/572/"
+        },
+        {
+            "name": "forests-curse",
+            "url": "https://pokeo.surge.sh/api/v2/move/571/"
+        },
+        {
+            "name": "parabolic-charge",
+            "url": "https://pokeo.surge.sh/api/v2/move/570/"
+        },
+        {
+            "name": "ion-deluge",
+            "url": "https://pokeo.surge.sh/api/v2/move/569/"
+        },
+        {
+            "name": "noble-roar",
+            "url": "https://pokeo.surge.sh/api/v2/move/568/"
+        },
+        {
+            "name": "trick-or-treat",
+            "url": "https://pokeo.surge.sh/api/v2/move/567/"
+        },
+        {
+            "name": "phantom-force",
+            "url": "https://pokeo.surge.sh/api/v2/move/566/"
+        },
+        {
+            "name": "fell-stinger",
+            "url": "https://pokeo.surge.sh/api/v2/move/565/"
+        },
+        {
+            "name": "sticky-web",
+            "url": "https://pokeo.surge.sh/api/v2/move/564/"
+        },
+        {
+            "name": "rototiller",
+            "url": "https://pokeo.surge.sh/api/v2/move/563/"
+        },
+        {
+            "name": "belch",
+            "url": "https://pokeo.surge.sh/api/v2/move/562/"
+        },
+        {
+            "name": "mat-block",
+            "url": "https://pokeo.surge.sh/api/v2/move/561/"
+        },
+        {
+            "name": "flying-press",
+            "url": "https://pokeo.surge.sh/api/v2/move/560/"
+        }
+    ],
+    "name": "generation-vi",
+    "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokeo.surge.sh/api/v2/language/5/"
+            },
+            "name": "G\u00e9n\u00e9ration VI"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokeo.surge.sh/api/v2/language/6/"
+            },
+            "name": "Generation VI"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokeo.surge.sh/api/v2/language/9/"
+            },
+            "name": "Generation VI"
+        }
+    ],
+    "pokemon_species": [
+        {
+            "name": "noivern",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/715/"
+        },
+        {
+            "name": "avalugg",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/713/"
+        },
+        {
+            "name": "gourgeist",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/711/"
+        },
+        {
+            "name": "trevenant",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/709/"
+        },
+        {
+            "name": "goodra",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/706/"
+        },
+        {
+            "name": "sliggoo",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/705/"
+        },
+        {
+            "name": "sylveon",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/700/"
+        },
+        {
+            "name": "aurorus",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/699/"
+        },
+        {
+            "name": "tyrantrum",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/697/"
+        },
+        {
+            "name": "heliolisk",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/695/"
+        },
+        {
+            "name": "clawitzer",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/693/"
+        },
+        {
+            "name": "dragalge",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/691/"
+        },
+        {
+            "name": "barbaracle",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/689/"
+        },
+        {
+            "name": "malamar",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/687/"
+        },
+        {
+            "name": "slurpuff",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/685/"
+        },
+        {
+            "name": "aromatisse",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/683/"
+        },
+        {
+            "name": "aegislash",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/681/"
+        },
+        {
+            "name": "doublade",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/680/"
+        },
+        {
+            "name": "meowstic",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/678/"
+        },
+        {
+            "name": "pangoro",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/675/"
+        },
+        {
+            "name": "gogoat",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/673/"
+        },
+        {
+            "name": "florges",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/671/"
+        },
+        {
+            "name": "floette",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/670/"
+        },
+        {
+            "name": "pyroar",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/668/"
+        },
+        {
+            "name": "vivillon",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/666/"
+        },
+        {
+            "name": "spewpa",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/665/"
+        },
+        {
+            "name": "talonflame",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/663/"
+        },
+        {
+            "name": "fletchinder",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/662/"
+        },
+        {
+            "name": "diggersby",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/660/"
+        },
+        {
+            "name": "greninja",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/658/"
+        },
+        {
+            "name": "frogadier",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/657/"
+        },
+        {
+            "name": "delphox",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/655/"
+        },
+        {
+            "name": "braixen",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/654/"
+        },
+        {
+            "name": "chesnaught",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/652/"
+        },
+        {
+            "name": "quilladin",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/651/"
+        },
+        {
+            "name": "volcanion",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/721/"
+        },
+        {
+            "name": "hoopa",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/720/"
+        },
+        {
+            "name": "diancie",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/719/"
+        },
+        {
+            "name": "zygarde",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/718/"
+        },
+        {
+            "name": "yveltal",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/717/"
+        },
+        {
+            "name": "xerneas",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/716/"
+        },
+        {
+            "name": "noibat",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/714/"
+        },
+        {
+            "name": "bergmite",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/712/"
+        },
+        {
+            "name": "pumpkaboo",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/710/"
+        },
+        {
+            "name": "phantump",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/708/"
+        },
+        {
+            "name": "klefki",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/707/"
+        },
+        {
+            "name": "goomy",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/704/"
+        },
+        {
+            "name": "carbink",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/703/"
+        },
+        {
+            "name": "dedenne",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/702/"
+        },
+        {
+            "name": "hawlucha",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/701/"
+        },
+        {
+            "name": "amaura",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/698/"
+        },
+        {
+            "name": "tyrunt",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/696/"
+        },
+        {
+            "name": "helioptile",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/694/"
+        },
+        {
+            "name": "clauncher",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/692/"
+        },
+        {
+            "name": "skrelp",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/690/"
+        },
+        {
+            "name": "binacle",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/688/"
+        },
+        {
+            "name": "inkay",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/686/"
+        },
+        {
+            "name": "swirlix",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/684/"
+        },
+        {
+            "name": "spritzee",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/682/"
+        },
+        {
+            "name": "honedge",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/679/"
+        },
+        {
+            "name": "espurr",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/677/"
+        },
+        {
+            "name": "furfrou",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/676/"
+        },
+        {
+            "name": "pancham",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/674/"
+        },
+        {
+            "name": "skiddo",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/672/"
+        },
+        {
+            "name": "flabebe",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/669/"
+        },
+        {
+            "name": "litleo",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/667/"
+        },
+        {
+            "name": "scatterbug",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/664/"
+        },
+        {
+            "name": "fletchling",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/661/"
+        },
+        {
+            "name": "bunnelby",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/659/"
+        },
+        {
+            "name": "froakie",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/656/"
+        },
+        {
+            "name": "fennekin",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/653/"
+        },
+        {
+            "name": "chespin",
+            "url": "https://pokeo.surge.sh/api/v2/pokemon-species/650/"
+        }
+    ],
+    "types": [
+        {
+            "name": "fairy",
+            "url": "https://pokeo.surge.sh/api/v2/type/18/"
+        }
+    ],
+    "version_groups": [
+        {
+            "name": "x-y",
+            "url": "https://pokeo.surge.sh/api/v2/version-group/15/"
+        },
+        {
+            "name": "omega-ruby-alpha-sapphire",
+            "url": "https://pokeo.surge.sh/api/v2/version-group/16/"
+        }
+    ]
+}

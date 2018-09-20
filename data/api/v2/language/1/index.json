@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "iso3166": "jp",
+    "iso639": "ja",
+    "name": "ja-Hrkt",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "https://pokeo.surge.sh/api/v2/language/1/"
+            },
+            "name": "\u65e5\u672c\u8a9e"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "https://pokeo.surge.sh/api/v2/language/5/"
+            },
+            "name": "Japonais"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "https://pokeo.surge.sh/api/v2/language/6/"
+            },
+            "name": "Japanisch"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "https://pokeo.surge.sh/api/v2/language/9/"
+            },
+            "name": "Japanese"
+        }
+    ],
+    "official": true
+}

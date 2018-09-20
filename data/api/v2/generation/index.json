@@ -1,0 +1,35 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "generation-i",
+            "url": "https://pokeo.surge.sh/api/v2/generation/1/"
+        },
+        {
+            "name": "generation-ii",
+            "url": "https://pokeo.surge.sh/api/v2/generation/2/"
+        },
+        {
+            "name": "generation-iii",
+            "url": "https://pokeo.surge.sh/api/v2/generation/3/"
+        },
+        {
+            "name": "generation-iv",
+            "url": "https://pokeo.surge.sh/api/v2/generation/4/"
+        },
+        {
+            "name": "generation-v",
+            "url": "https://pokeo.surge.sh/api/v2/generation/5/"
+        },
+        {
+            "name": "generation-vi",
+            "url": "https://pokeo.surge.sh/api/v2/generation/6/"
+        },
+        {
+            "name": "sun-moon",
+            "url": "https://pokeo.surge.sh/api/v2/generation/7/"
+        }
+    ]
+}
